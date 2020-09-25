@@ -1,6 +1,9 @@
 <h1 align="center">Hi there <a href="https://github.com/chloecmin"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="44px"></a></h1>
-
+<p align="center">
+<a href=https://mail.google.com target="blank"><img align="center" src=https://www.flaticon.com/svg/static/icons/svg/561/561188.svg alt="chloecmin" height="25" width="25" /></a> chloecmin@gmail.com
 <br>
+<a href=https://linkedin.com/in/chloe-c-min target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="chloecmin" height="25" width="25" /></a> https://linkedin.com/in/chloe-c-min
+</p>
 
 ## I can be Data Scientist, Engineer, Developer and Student
 
