@@ -1,4 +1,4 @@
-<link href="https://raw.githubusercontent.com/chloecmin/chloecmin/master/markdown.css" rel="stylesheet"></link>
+<link href="chloecmin/markdown.css" rel="stylesheet"></link>
 ### Hi there <a href="https://github.com/chloecmin"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></a>
 <br>
 
