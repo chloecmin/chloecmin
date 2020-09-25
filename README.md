@@ -2,9 +2,10 @@
 
 
 
-### I can be Data Scientist, Engineer, Developer and Student
+## I can be Data Scientist, Engineer, Developer and Student
 
----
+
+
 
 - :woman_student:   I’m currently learning Data Analysis, ML, DL
 - :briefcase:  I have work experience involved with IT field widely about 2.5 years
@@ -18,7 +19,16 @@
 
 
 
-### Languages and Tools
+
+
+
+---
+
+
+
+
+
+## Languages and Tools
 
 <img align="left" alt="GitHub" width="10%" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
