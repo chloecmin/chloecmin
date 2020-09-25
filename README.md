@@ -21,7 +21,7 @@
 
 ## Languages and Tools
 
-
+<p align="left">
 <img align="left" alt="GitHub" width="40" height="40" style="padding-bottom:10px !important;" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Git" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="SQL" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
@@ -44,6 +44,7 @@
 <img align="left" alt="csharp" width="40" height="40" src=https://www.motc.gov.qa/sites/default/files/server-2016_0.jpg />
 <img align="left" alt="csharp" width="40" height="40" src="https://www.synercomm.com/wp-content/uploads/microsoft-hyperv-logo-sized-768x384.jpg" />
 <img align="left" alt="csharp" width="40" height="40" src="https://images.squarespace-cdn.com/content/v1/5b20050e3c3a534593e1acc3/1547973463256-45ACTOP3J98ZJLMGLTQU/ke17ZwdGBToddI8pDm48kABpC-8OSMfOfgwGbWCJtcpZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVHJxc9w8SoP6GKVGdwrslLhn1RxToi7nIkzmPmivim25B926scO3xePJoa6uVJa9B4/Anaconda.png" />
+</p>
 
 ---
 
