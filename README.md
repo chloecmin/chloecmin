@@ -16,18 +16,9 @@
   - ETC
 - :school:  My background in University is IT Engineering
 - :goal_net:  2020 Goal : Do data analysis and AI Projects as much as possible
-
-
-
-
-
-
+</br></br>
 ---
-
-
-
-
-
+</br></br>
 ## Languages and Tools
 
 <img align="left" alt="GitHub" width="10%" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
