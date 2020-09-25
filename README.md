@@ -1,5 +1,5 @@
 ### Hi there <a href="https://github.com/chloecmin"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></a>
-<br><br>
+<br>
 
 ## I can be Data Scientist, Engineer, Developer and Student
 - :woman_student:   I’m currently learning Data Analysis, ML, DL
@@ -15,9 +15,10 @@
 
 - :goal_net:  2020 Goal : Do data analysis and AI Projects as much as possible
 
-  <br><br>
+  <br>
 ---
 <br>
+
 ## Languages and Tools
 
 <img align="left" alt="GitHub" width="10%" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
