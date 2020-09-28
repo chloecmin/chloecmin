@@ -27,7 +27,7 @@
 ## Languages and Tools
 
 <p align="left">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="50" height="50"/>
+<img src="asset/python.svg" alt="python" width="50" height="50"/>
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/217d5ea0-623d-40b1-9b31-027b904a5f15/dccudp7-3a29ffd5-4e85-4123-88cc-4e948bedd7c1.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMjE3ZDVlYTAtNjIzZC00MGIxLTliMzEtMDI3YjkwNGE1ZjE1XC9kY2N1ZHA3LTNhMjlmZmQ1LTRlODUtNDEyMy04OGNjLTRlOTQ4YmVkZDdjMS5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.Rn4RzVlwXCvauS0g3jKBhgIVctXdp7dlkr0f6SJAFnc" alt="pycharm" width="50" height="50"/>
 <img src="https://datarebellion.com/wp-content/uploads/2018/04/anaconda-logo-300x300.png" alt="anaconda" width="50" height="50"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="50" height="50"/>
