@@ -44,9 +44,9 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/github/explore/master/topics/sqlite/sqlite.png" alt="sqllite" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png" alt="aws" width="50" height="50"/> 
-<img src="https://lh3.googleusercontent.com/proxy/Wf5vHD1L3T_Xz84ND0zO4qVVWvjzS77JPTG5_cd_oXrxj4T_7vvm-TLjxJRyD4KP-Ih7_vpROtBRj1ACrBZiuRRul51w_db3ppeWCLyM_DRz-B2yY6bX3FpXHyP1SBl7p3gfOX0lvG4" alt="msserver" width="50" height="50"/>
-<img src="https://lh3.googleusercontent.com/proxy/zpCfF_O1N9Y3sRkUzjJpUmn1eQk5x0ss0Ih-fS4VfA8Uwy-Y6mJFFjGI3y6QPC6FeVXJGAl7aZbsPeuT1zxaadPNicP-_h3-cIAYJ3clNnO3uaQhEtrnjQ" alt="mshyperv" width="50" height="50"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSf1PsOfGGC_koOSxVRgN59Im0PpL6l-nxEvQ&usqp=CAU" alt="msserver" width="50" height="50"/>
 <img src="https://erikerik.mygreencloud.be/wp-content/uploads/2015/01/logoactive-directory.jpg" alt="msactivedirectory" width="50" height="50"/>
+<img src="https://www.tenforums.com/geek/gars/images/1/2/9/1/types/thumb__yper-_-logo.jpg" alt="mshyperv" width="50" height="50"/>
 <img src="https://www.cisco.com/web/fw/i/logo-open-graph.gif" alt="cisco" width="50" height="50"/>
 <img src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/072011/sym_horizlogo_2c_on_white.ai_.png?itok=G19M3b23" alt="symantec" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" alt="git" width="50" height="50"/> 
